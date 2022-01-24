@@ -1,8 +1,7 @@
 .Calcuator {
   max-width: 800px;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 300px;
+  margin: auto;
+  margin-top: 30px;
 }
 
 .grid-container {
