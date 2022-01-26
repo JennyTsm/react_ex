@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAEA,AAAA,KAAK,CAAC;EACF,MAAM,EAAE,IAAI;CAKf;;AAND,AAGI,KAHC,CAGD,MAAM,CAAA;EACF,eAAe,EAAE,MAAM;CAC1B",
+    "sources": [
+        "Mainform.scss",
+        "var.scss"
+    ],
+    "names": [],
+    "file": "Mainform.css"
+}

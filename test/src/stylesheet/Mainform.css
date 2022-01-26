@@ -1,0 +1,10 @@
+.Main {
+  margin: auto;
+}
+
+.Main .title {
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+/*# sourceMappingURL=Mainform.css.map */
